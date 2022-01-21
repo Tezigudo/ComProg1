@@ -1,0 +1,14 @@
+ I have complete all project from Week 6 assignment including theater.py and bts_fee.py .
+
+from Wk6assignment
+I have done and got
+- logic and systematic thinking 
+- Practice nested dict and while loop
+
+while I was writting a program There are some thing that I want to told about the assignment
+- I think you fixed function/step of thinking/algorithm to do it
+- the way you fixed it a redundant method(some function and main part at bts_fee)  please try to dont do it next time
+
+Finally, From this assignment I have got more concept of systematic thinking, while loop, and dictionary skll and more.
+
+Thank you A.J. Supaporn. :)
