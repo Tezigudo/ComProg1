@@ -1,9 +1,0 @@
-Firstname,Lastname,01420111,01219114,01355112,01417167
-Ann,Smith,B+,A,A,B
-Barry,Williams,A,C,B,D+
-Cathy,Johnson,C+,B,D+,C
-Ann,Harris,C,D,B,A
-David,Jones,B,C+,D,D
-Lily,Brown,B,C+,A,A
-Eric,Garcia,D,B+,F,D
-Francis,Miller,A,B,C,D

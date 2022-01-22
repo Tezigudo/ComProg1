@@ -1,0 +1,11 @@
+I have complete all thing on Wk10 assignment with in 2 day xD.
+
+The things that I done and get from this work is
+- queue algorithm to draw an ball and tail and tracking.
+- I learn how to throw an error with expect condition and description.
+- I have learnt how to handling a bug and find a bug.
+- using git and github more deeper
+
+from this assignment I have got lots of OOP thinking.
+I have done all and no comment.
+Thanks AJ. Chaiporn :).

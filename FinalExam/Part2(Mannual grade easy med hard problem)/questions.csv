@@ -1,0 +1,21 @@
+category,type,difficulty,question,correct_answer,incorrect_answers/0,incorrect_answers/1,incorrect_answers/2
+Science: Computers,multiple,easy,What does CPU stand for?,Central Processing Unit,Central Process Unit,Computer Personal Unit,Central Processor Unit
+Science: Computers,multiple,medium,Whistler was the codename of this Microsoft Operating System.,Windows XP,Windows 2000,Windows 7,Windows 95
+Science: Computers,multiple,easy,HTML is what type of language?,Markup Language,Macro Language,Programming Language,Scripting Language
+Science: Computers,multiple,easy,What amount of bits commonly equals one byte?,8,1,2,64
+Science: Computers,multiple,easy,Which computer hardware device provides an interface for all other connected devices to communicate?,Motherboard,Central Processing Unit,Hard Disk Drive,Random Access Memory
+Science: Computers,multiple,medium,All of the following programs are classified as raster graphics editors EXCEPT:,Inkscape,Paint.NET,GIMP,Adobe Photoshop
+Science: Computers,multiple,easy,What is the most preferred image format used for logos in the Wikimedia database?,.svg,.png,.jpeg,.gif
+Science: Computers,multiple,medium,On which day did the World Wide Web go online?,"December 20, 1990","December 17, 1996","November 12, 1990","November 24, 1995"
+Science: Computers,multiple,medium,Which one of these is not an official development name for a Ubuntu release?,Mystic Mansion,Trusty Tahr,Utopic Unicorn,Wily Werewolf
+Science: Computers,multiple,medium,Which coding language was the #1 programming language in terms of usage on GitHub in 2015?,JavaScript,C#,Python,PHP
+Science: Computers,multiple,easy,"On Twitter, what was the original character limit for a Tweet?",140,120,160,100
+Science: Computers,multiple,easy,This mobile OS held the largest market share in 2012.,iOS,Android,BlackBerry,Symbian
+Science: Computers,multiple,medium,Which of these people was NOT a founder of Apple Inc?,Jonathan Ive,Steve Jobs,Ronald Wayne,Steve Wozniak
+Science: Computers,multiple,hard,Which RAID array type is associated with data mirroring?,RAID 1,RAID 0,RAID 10,RAID 5
+Science: Computers,multiple,hard,What major programming language does Unreal Engine 4 use?,C++,Assembly,C#,ECMAScript
+Science: Computers,multiple,medium,The teapot often seen in many 3D modeling applications is called what?,Utah Teapot,Pixar Teapot,3D Teapot,Tennessee Teapot
+Science: Computers,multiple,medium,What is the number of keys on a standard Windows Keyboard?,104,64,94,76
+Science: Computers,multiple,hard,What was the name of the first Bulgarian personal computer?,IMKO-1,Pravetz 82,Pravetz 8D,IZOT 1030
+Science: Computers,multiple,medium,How many bits make up the significand portion of a single precision floating point number?,23,8,53,15
+Science: Computers,multiple,easy,What language does Node.js use?,JavaScript,Java,Java Source,Joomla Source Code

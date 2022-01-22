@@ -1,0 +1,22 @@
+I have complete all thing on Wk12 assignment(that is account.py and database.py) with in a day xD.
+
+The things that I done and get from this work is
+- Learn what JSON file work and what it is
+- working with JSON file.
+- FileIO and exception handing
+- using .gitignore to ignore file that Doesnt need
+- get some skill to solve problem.(problem solving)
+
+from this assignment I have got lots of Logic thinking.
+I have done all and have some comment about it
+1.) some function are redendant such as withdraw function
+    it should return bool ever it is valid amount or not
+    and check in transfer function
+
+2.) I think you fixed solution to use,(fix วิธีทำมากเกินไป)
+
+3.) long program must have a main part to run manually to see what go on.
+
+4.) This program I didnt see what going on program, I onlys see if I pass doctest or not.
+
+Thanks AJ. Withawat :).

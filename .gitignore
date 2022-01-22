@@ -1,7 +1,15 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+*/__pycache__/
+Assignment/*/__pycache__/
 *.py[cod]
 *$py.class
+
+# Mac OS file
+*/.DS_Store
+*/.idea
+Assignment/*/.DS_Store
+Assignment/*/.idea
 
 # C extensions
 *.so
