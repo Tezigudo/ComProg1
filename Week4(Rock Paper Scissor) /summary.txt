@@ -1,0 +1,17 @@
+I have complete all project from Week 4 assignment including rock.py and board.py .
+
+from Wk4assignment
+I have done and got
+- logic and systematic thinking 
+- for loop and list sliceing indexing
+- function and return multiple value and assign them
+
+while I was writting a program There are many thing that I want to told about the assignment
+- first I think you fixed function/step of thinking/algorithm to do it
+- I think there such a way to write it and optimized the code rather than make some function that such a waste of time
+(it can do shorter way and optimixed the solution due to the function you given)
+
+Finally, From this assignment I have got more concept of systematic thinking, 
+but i think It couldn't use reduntdant method to solve it, Just simple.
+
+Thank you A.J. Supaporn.
