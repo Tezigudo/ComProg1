@@ -1,0 +1,3 @@
+[submodule "Project/Card_game"]
+	path = Project/Card_game
+	url = https://github.com/Tezigudo/Card_game.git
